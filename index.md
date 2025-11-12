@@ -9,6 +9,6 @@ I am a CNRS researcher working on physical oceanography at the Laboratoire d'Oc√
 Currently, my research focuses on the physical processes that control salinity variability and their modification by climate change.
 
 On this website, you may find :
-- A short [CV](/cv/)
-- My [research projects](/projects/)
-- My [publications](/publications/)
+- A short [CV]({{ site.baseurl }}/cv/)
+- My [research projects]({{ site.baseurl }}/projects/)
+- My [publications]({{ site.baseurl }}/publications/)
