@@ -11,7 +11,7 @@ locale: "en-US"
 timezone: "Europe/Paris"
 
 url: "https://ahochet.github.io"
-baseurl: "/website"
+baseurl: ""
 
 author:
   name   : "Antoine Hochet"
